@@ -301,7 +301,7 @@ nav ul li a{
     }
 }
 
-@media only screen and (max-width: 360px){
+@media only screen and (max-width: 390px){
     .box
     {
         width: 460px;
@@ -338,10 +338,6 @@ nav ul li a{
         margin-left: 65px;
         font-size: 1em;
         color: lightgray;
-    }
-    .bigbox1 img
-    {
-        /* display: flex; */
     }
     .bigbox1 .shop
     {
