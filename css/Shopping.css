@@ -380,3 +380,10 @@ nav ul li a{
         margin-left: 100px;
     }
 }
+
+@media only screen and (min-width: 1537px){
+   .box
+   {
+     width: 80%;
+   }
+}
